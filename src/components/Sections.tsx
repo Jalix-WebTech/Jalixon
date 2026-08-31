@@ -977,7 +977,7 @@ export function CEO() {
               <div className="absolute -inset-4 bg-gradient-to-tr from-brand-500/30 to-transparent blur-2xl rounded-3xl" />
               <div className="relative rounded-3xl overflow-hidden glass border-gradient aspect-[4/5]">
                 <img
-                  src="/images/ceo.jpeg"
+                  src="/images/CEO.jpg"
                   alt="James Felix, Founder & CEO of Jalixon"
                   loading="lazy"
                   className="absolute inset-0 h-full w-full object-cover object-top"
